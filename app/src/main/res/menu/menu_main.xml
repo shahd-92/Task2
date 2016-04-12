@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MapsActivity">
+    <item android:id="@+id/layers" android:title="@string/layers"
+        android:orderInCategory="101" app:showAsAction="always" android:showAsAction="always" android:icon="@drawable/ic_layers" />
+    <item android:id="@+id/map" android:title="@string/map"
+        android:orderInCategory="101" app:showAsAction="always" android:showAsAction="always" android:icon="@drawable/ic_map" />
+
+
+
+</menu>
